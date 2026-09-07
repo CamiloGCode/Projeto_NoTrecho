@@ -1,2 +1,1 @@
-# NoTrecho 
-- Sistema Web/Mobile para gerir gastos
+# NoTrecho - Sistema Web/Mobile para gerir gastos
