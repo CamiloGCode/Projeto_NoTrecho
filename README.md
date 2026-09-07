@@ -1,1 +1,1 @@
-# NoTrecho - Sistema Web/Mobile para gerir gastos
+# Sistema Web/Mobile para gerir gastos de corridas
